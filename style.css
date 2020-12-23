@@ -5,5 +5,5 @@
     background-image: (
     linear, left top, left bottom, from(rgba(0,0,0,0.5)),
     to(rgba(0,0,0,0.0)));
-    color: white;
+    color: olivedrab;
 }
