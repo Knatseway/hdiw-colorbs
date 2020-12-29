@@ -12,7 +12,9 @@ h1{
     font-family: 'Happy Monkey', cursive;
     color: olivedrab;
 }
-
+.wrapper {
+    background-image: linear-gradient( pink, white,pink);
+}
 .container-md-mx-auto {
     padding-top: 10px;
     padding-bottom: 30px;
@@ -24,8 +26,6 @@ h1{
 
 }
 .row {
-    /*padding-left:300px;*/
+    padding: 30px;
     text-align: center;
-    background: linear-gradient(90deg, gray);
-}
 }
