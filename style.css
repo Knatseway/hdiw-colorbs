@@ -6,13 +6,9 @@ h1{
 }
 
 .container-1 {
-    border-image-source:url(smiles.png)
     margin: 3rem;
     padding: 3rem;
     font-family: 'Happy Monkey', cursive;
-    background-image: (smiles.
-    linear, left top, left bottom, from(rgba(0,0,0,0.5)),
-    to(rgba(0,0,0,0.0)));
     color: olivedrab;
 }
 
@@ -25,4 +21,7 @@ h1{
     margin-left: 340px;
     background-color: pink;
 
+}
+.row {
+    padding-left:300px;
 }
