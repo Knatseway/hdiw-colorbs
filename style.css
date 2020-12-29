@@ -1,6 +1,10 @@
+h1{
+    text-align: center;
+}
 .container {
     font-family: 'Happy Monkey', cursive;
 }
+
 .container-1 {
     border-image-source:url(smiles.png)
     margin: 3rem;
@@ -10,4 +14,15 @@
     linear, left top, left bottom, from(rgba(0,0,0,0.5)),
     to(rgba(0,0,0,0.0)));
     color: olivedrab;
+}
+
+.container-md {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 300px;
+    padding-right: 300px;
+    margin:50px;
+    margin-left: 350px;
+    background-color: pink;
+
 }
